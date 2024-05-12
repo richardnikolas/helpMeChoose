@@ -2,7 +2,7 @@ import requests
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMzNjMTY2NDI1NDFiMGExZWNjMDIyNTIzYjY1MjJlOSIsInN1YiI6IjY2M2Y3MDNiYmUyMjk0ZDgwNjQ3ZGFkZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xt0DAoBnne0yg_0KTsFOhJokVphLionVGLLXWC4HpjE"
+    "Authorization": "Bearer YOUR_BEARER_TOKEN"
 }
 
 # themoviedb
