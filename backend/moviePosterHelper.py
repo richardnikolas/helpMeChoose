@@ -6,7 +6,7 @@ headers = {
 }
 
 # themoviedb
-apiKey = "233c16642541b0a1ecc022523b6522e9"
+apiKey = "YOUR_TMDB_DEV_API_KEY"
 
 def getMoviePoster(movieName):
     # themoviedb API to get details and poster

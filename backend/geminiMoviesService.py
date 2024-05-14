@@ -3,7 +3,7 @@ import json
 
 from moviePosterHelper import getMoviePoster
 
-genai.configure(api_key="AIzaSyC0yhExP-VrhZFj6bRVTpe_5i3P7hfA2FA")
+genai.configure(api_key="YOUR_GOOGLE_API_KEY")
 
 # Set up the model
 generation_config = {
